@@ -1,4 +1,5 @@
-### 🌱  <a href="https://www.notion.so/Today-I-Learned-c3e136c7d5bf4b979411dad84ab00e8b" target="_blank"><img src="https://img.shields.io/badge/Today.I.Learnd-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+### 🌱 
+<a href="https://www.notion.so/Today-I-Learned-c3e136c7d5bf4b979411dad84ab00e8b" target="_blank"><img src="https://img.shields.io/badge/Today.I.Learnd-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 <!--
 **seoeunbae/seoeunbae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
