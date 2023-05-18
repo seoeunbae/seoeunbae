@@ -1,7 +1,7 @@
 # 🌱 Bae-SeoEun 🌱
 
 ## 📑 Portfolio
--> <a href="https://baeseoeun.notion.site/4fd7c0fd78394024974f668bbbd9afa6" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a> 버튼클릭시, 포트폴리오 페이지로 연결됩니다
+-> <a href="https://baeseoeun.notion.site/4fd7c0fd78394024974f668bbbd9afa6" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a> **버튼클릭시, 포트폴리오 페이지로 연결됩니다**
 
 ## 💪🏻 Skills
 ### Application
