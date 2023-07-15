@@ -1,7 +1,9 @@
 # 🌱 Bae-SeoEun 🌱
 
+<!--
 ## 📑 Portfolio
 **->** <a href="https://baeseoeun.notion.site/4fd7c0fd78394024974f668bbbd9afa6" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a> **버튼클릭시, 포트폴리오 페이지로 연결됩니다**
+--!>
 
 ## 💪🏻 Skills
 ### Application
@@ -19,22 +21,6 @@
 
 
 
-
-
-<!--
-**seoeunbae/seoeunbae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ## 📊 Solved.ac Profile
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lily9903)](https://solved.ac/lily9903/)
