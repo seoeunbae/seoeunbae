@@ -14,10 +14,3 @@
 ![amazonrds](https://img.shields.io/badge/amazonrds-527FFF.svg?&style=for-the-badge&logo=amazonrds&logoColor=white)
 ![amazons3](https://img.shields.io/badge/amazons3-569A31.svg?&style=for-the-badge&logo=amazons3&logoColor=white)
 
-
-
-/*
-
-## 📊 Solved.ac Profile
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lily9903)](https://solved.ac/lily9903/)
-*/
