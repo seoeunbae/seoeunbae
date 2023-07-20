@@ -1,6 +1,6 @@
 # 🌱 Bae-SeoEun 🌱
 
-<img src="https://github.com/seoeunbae/seoeunbae/assets/71380240/3574c279-048c-4cc5-a330-7237e778303d" width="400" height="500"/>
+<img src="https://github.com/seoeunbae/seoeunbae/assets/71380240/3574c279-048c-4cc5-a330-7237e778303d" width="380" height="500"/>
 
 
 
