@@ -1,5 +1,8 @@
 # 🌱 Bae-SeoEun 🌱
 
+![6C24131B-9CF5-43A5-99D0-7B8690FA77EC_1_201_a](https://github.com/seoeunbae/seoeunbae/assets/71380240/3574c279-048c-4cc5-a330-7237e778303d)
+
+
 
 ## 💪🏻 Skills
 ### Application
