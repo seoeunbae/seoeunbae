@@ -1,5 +1,5 @@
 # 🌱 Bae-SeoEun 🌱
-
+https://velog.io/@seon___/posts
 
 
 ## 💪🏻 Skills
