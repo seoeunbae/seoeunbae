@@ -1,5 +1,3 @@
-# 🌱 Bae-SeoEun 🌱
-
 
 
 ## 💪🏻 Skills
