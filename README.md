@@ -13,3 +13,6 @@
 ### 🏫 Education
 Soongsil University - Bachelor of Computer Science and Germanistik
 
+
+<img width="444" height="717" alt="Image" src="https://github.com/user-attachments/assets/b6c3f5f4-e5fb-40d1-abb2-32437d7cec7f" />
+
